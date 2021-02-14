@@ -1,4 +1,13 @@
 @charset "utf-8";
 /* CSS Document */
 
-body{background-color: #142427;}
+body{background-color: #142427; 
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align: center;}
+maintext {
+
+}
